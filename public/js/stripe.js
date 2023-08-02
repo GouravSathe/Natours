@@ -1,4 +1,5 @@
-import axios from 'axios';
+// import axios from 'axios';
+const axios = require('axios');
 import { showAlert } from './alerts';
 const stripe = Stripe(Y
   'pk_test_51NUBf7SBEZ4RRZmF7HY7dX8XVBs3TOz6hYufrZxeu6mdiyS36IG1sBGOZvBbMrtd1YBNzyPCphxoShCISbebUExa00WGXI5ZPm'
